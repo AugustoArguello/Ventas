@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8f421bc-4aba-4e6b-9568-461f3841b4bf": {
+      "ProjectGuid": "d8f421bc-4aba-4e6b-9568-461f3841b4bf",
+      "DisplayName": "Ventas1.0.0",
+      "ColorIndex": 0
+    },
+    "1622a794-458c-4268-aafd-a8cea567fbc3": {
+      "ProjectGuid": "1622a794-458c-4268-aafd-a8cea567fbc3",
+      "DisplayName": "Datos",
+      "ColorIndex": 1
+    },
+    "e1a9c6be-280d-4246-a51b-a1b31565f50b": {
+      "ProjectGuid": "e1a9c6be-280d-4246-a51b-a1b31565f50b",
+      "DisplayName": "Negocios",
+      "ColorIndex": 2
+    },
+    "f04f6be3-108f-4bf0-90c0-16be4c89c004": {
+      "ProjectGuid": "f04f6be3-108f-4bf0-90c0-16be4c89c004",
+      "DisplayName": "Identidades",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
